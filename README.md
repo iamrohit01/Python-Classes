@@ -56,6 +56,3 @@ my_linked_list.print_list()
 
 To run this project, you need Python installed on your machine. Clone the repository and run the `main.py` file to see the linked list in action.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
