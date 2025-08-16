@@ -52,7 +52,3 @@ print('Reversed Linked List:')
 my_linked_list.print_list()
 ```
 
-## Installation
-
-To run this project, you need Python installed on your machine. Clone the repository and run the `main.py` file to see the linked list in action.
-
